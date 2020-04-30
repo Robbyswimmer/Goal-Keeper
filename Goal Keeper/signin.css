@@ -1,0 +1,21 @@
+body {
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+  
+}
+.inputWidth { width:100%;}
+
+#jumbo { 
+    background-color:#f5f5f5;
+    height: 25%;
+}
+
+#button {
+    height: 2em;
+    background-color: white;
+} 
+
+p { font-size: 20px; }
