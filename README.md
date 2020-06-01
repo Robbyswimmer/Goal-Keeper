@@ -43,7 +43,7 @@ Notes: PHP is used to handle anything server or user-information related, while 
   * Sort goals by type to find weaknesses in your goal setting strategies
 
 * View all of the goals you have completed to see how many of your goals you have completed
-  * Sort goals by type, or view all goals at once to see how your hard work has paid-off
+  * Sort goals by type, or view all of your goals at once to see all of your hard work
 
 ![Goal Keeper](/gk-images/completed.png)
 
