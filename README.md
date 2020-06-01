@@ -1,6 +1,6 @@
 # Goal-Keeper
 
-Goal Keeper is a website to help people keep track of their goals. It can be used to create goals, monitor goals, view statistics about your goals, and view your history of goal completion. It is completely free and it exists because I believe that writing goals is an incredibly important part of life and should be easily accessible to all people.
+Goal Keeper is a website to help people keep track of their goals. It can be used to create goals, monitor goals, view statistics about your goals, and check your history of goal completion. It is completely free and it exists because I believe that writing goals is an incredibly important part of life and should be easily accessible to all people.
 
 
 ![Goal Keeper](/gk-images/home.png)
