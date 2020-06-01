@@ -87,7 +87,7 @@ while (mysqli_stmt_fetch($sql)) {
 
 PHP is used to handle anything server or user-information related, while JavaScript handles some of the page formatting and is also responsible for producing the graphs on the home page. Bootstrap's grid system provides easy, and consistent page formatting and reliable scaling between mobile and desktop versions of the site.
 
-Plotly is a JavaScript library that allows data to easily be formatted and graphed according to the needs of the data. Goal Keeper uses a 1-10 scale for rating goals, so the most effective portrayal of this data is to use a barchart for individual goals. 
+Plotly is a JavaScript library that allows data to easily be formatted and graphed according to the needs of the data. Goal Keeper uses a 1-10 scale for rating goals, so the most effective portrayal of this data is to use a barchart with bars representing the rating of each individual goal. 
 
 Using PHP we can pull all of the data for the goals from the SQL database as an array of strings, and then Plotly and JavaScript can be used to format this data and display it as a barchart. Using Plotly it only takes a few lines of code to accomplish this:
 
