@@ -29,6 +29,8 @@ Notes: PHP is used to handle anything server or user-information related, while 
 * View useful statistics about your goal progress
 * View all of the goals you have completed to see how many of your goals you have completed
 
+![Goal Keeper](/gk-images/completed.png)
+
 ## Try Goal Keeper
 
 Goal Keeper can be demoed right now at the following link: http://robbymoseley.com/gk/signin.php
