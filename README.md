@@ -2,7 +2,9 @@
 
 Goal Keeper is a website to help people keep track of their goals. It can be used to create goals, monitor goals, view statistics about your goals, and view your history of goal completion. It is completely free and it exists because I believe that writing goals is an incredibly important part of life and should be easily accessible to all people.
 
+
 ![Goal Keeper](/gk-images/home.png)
+
 
 ## Purpose
 
@@ -24,7 +26,10 @@ Goal Keeper was built with the following technologies:
 
 One particular feature of interest for the implementation of this project is the way that individual goals are handled. Given that each user will be generating long lists of goals with different types, descriptions, ratings, id's, and timestamps – the most important part of this website was determining how to handle all of these goals. 
 
-When a user creates a goal, that goal is inserted into the database and then a card is dynamically generated for that database entry to reflect the new goal. That goal is then displayed on the page dynamically where it is organized with the other goals. Each card has a dynamically generated modal, title, description, and the rating for each goal is set to `null` by default until it is given a rating by a user.
+When a user creates a goal, that goal is inserted into the database and then a card is dynamically generated for that database entry to reflect the new goal. That goal is then displayed on the page dynamically where it is organized with the other goals.
+
+Each card has a dynamically generated modal, title, description, and the rating for each goal is set to `null` by default until it is given a rating by a user.
+
 
 ![Goal Keeper](/gk-images/example.png)
 
@@ -79,11 +84,13 @@ while (mysqli_stmt_fetch($sql)) {
                     </div>
                 </div>
 ```
-Notes: 
 
 PHP is used to handle anything server or user-information related, while JavaScript handles some of the page formatting and is also responsible for producing the graphs on the home page. Bootstrap's grid system provides easy, and consistent page formatting and reliable scaling between mobile and desktop versions of the site.
 
-Plotly is a JavaScript library that allows data to easily be formatted and graphed according to the needs of the data. Goal Keeper uses a 1-10 scale for rating goals, so the most effective portrayal of this data is to use a barchart for individual goals. Using PHP we can pull all of the data for the goals from the SQL database as an array of strings, and then Plotly and JavaScript can be used to format this data and display it as a barchart. Using Plotly it only takes a few lines of code to accomplish this:
+Plotly is a JavaScript library that allows data to easily be formatted and graphed according to the needs of the data. Goal Keeper uses a 1-10 scale for rating goals, so the most effective portrayal of this data is to use a barchart for individual goals. 
+
+Using PHP we can pull all of the data for the goals from the SQL database as an array of strings, and then Plotly and JavaScript can be used to format this data and display it as a barchart. Using Plotly it only takes a few lines of code to accomplish this:
+
 
 ```JavaScript
 <script type="text/javascript">
