@@ -57,7 +57,7 @@ Plotly is a JavaScript library that allows data to easily be formatted and graph
 
 ## Try Goal Keeper
 
-Goal Keeper can be tried right now at the following link: http://robbymoseley.com/gk/signin.php
+Goal Keeper can be tried right now at the following link: [Goal Keeper](http://robbymoseley.com/gk/signin.php)
 
 While all features are fucntional, the current version of Goal Keeper is in development so not everything will be completely polished. All passwords are encrypted.
 
