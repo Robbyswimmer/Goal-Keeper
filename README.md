@@ -29,10 +29,10 @@ Notes: PHP is used to handle anything server or user-information related, while 
 ## Features
 
 * Create Goals based on how long it will take to accomplish them (day, week, month, year, all-time)
- * Give your goals titles, descriptions, other relevant information so you know exactly what your goal is
+  * Give your goals titles, descriptions, other relevant information so you know exactly what your goal is
 
 * Track and monitor your goals however you feel is best
- * Add journal entries to goals
+  * Add journal entries to goals
  * Give your goals ratings
  * Edit your goals to reflect your changing needs overtime
  * Mark your goals as complete once you have achieved them
