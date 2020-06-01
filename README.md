@@ -33,10 +33,10 @@ Notes: PHP is used to handle anything server or user-information related, while 
 
 * Track and monitor your goals however you feel is best
   * Add journal entries to goals
- * Give your goals ratings
- * Edit your goals to reflect your changing needs overtime
- * Mark your goals as complete once you have achieved them
- * Delete your goals if they are no longer relevant or if you have moved on from them
+  * Give your goals ratings
+  * Edit your goals to reflect your changing needs overtime
+  * Mark your goals as complete once you have achieved them
+  * Delete your goals if they are no longer relevant or if you have moved on from them
 
 * View useful statistics about your goal progress
  * View bar charts to reflect your goal progress on the 'Home' page
