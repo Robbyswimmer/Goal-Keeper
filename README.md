@@ -29,21 +29,21 @@ Notes: PHP is used to handle anything server or user-information related, while 
 ## Features
 
 * Create Goals based on how long it will take to accomplish them (day, week, month, year, all-time)
-** Give your goals titles, descriptions, other relevant information so you know exactly what your goal is
+ * Give your goals titles, descriptions, other relevant information so you know exactly what your goal is
 
 * Track and monitor your goals however you feel is best
-** Add journal entries to goals
-** Give your goals ratings
-** Edit your goals to reflect your changing needs overtime
-** Mark your goals as complete once you have achieved them
-** Delete your goals if they are no longer relevant or if you have moved on from them
+ * Add journal entries to goals
+ * Give your goals ratings
+ * Edit your goals to reflect your changing needs overtime
+ * Mark your goals as complete once you have achieved them
+ * Delete your goals if they are no longer relevant or if you have moved on from them
 
 * View useful statistics about your goal progress
-** View bar charts to reflect your goal progress on the 'Home' page
-** Sort goals by type to find weaknesses in your goal setting strategies
+ * View bar charts to reflect your goal progress on the 'Home' page
+ * Sort goals by type to find weaknesses in your goal setting strategies
 
 * View all of the goals you have completed to see how many of your goals you have completed
-** Sort goals by type, or view all goals at once to see how your hard work has paid-off
+ * Sort goals by type, or view all goals at once to see how your hard work has paid-off
 
 ![Goal Keeper](/gk-images/completed.png)
 
